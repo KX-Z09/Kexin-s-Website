@@ -1,0 +1,40 @@
+---
+title: "Kexin's Website"
+image: headshot.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: www.linkedin.com/in/kexinzhang09
+    - text: Email
+      href: kxz175@case.edu
+resources:
+  - "CV.pdf"
+cv:
+  pdf: "CV.pdf"
+---
+
+### Welcome!
+
+I'm currently a graduate student at Case Western Reserve University, pursing a master degree in biology.
+
+## Education
+
+B.S in Biomedical Engineering and B.A in Psychology \| Cleveland, OH
+
+Case Western Reserve University \| Class of 2022
+
+M.S in Biology \| Cleveland, OH
+
+Case Western Reserve University \| Class of 2024
+
+## Experience
+
+McGregor Home \| Friendly visit volunteer \| 2022 - present
+
+Case Western Reserve University \| Teaching assistant \| 2022 - present
+
+Case Western Reserve University \| Graduate research assistant \| 2022 - present

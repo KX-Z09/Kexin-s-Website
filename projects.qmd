@@ -1,0 +1,42 @@
+---
+title: "Research Experience"
+image: drosophila.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: rectangle
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: www.linkedin.com/in/kexinzhang09
+    - text: Email
+      href: kxz175@case.edu
+---
+
+## Undergraduate Volunteer Researcher
+
+:::{#hero-heading}
+
+Department of Genetics and Genome Science, CWRU \| 2019-2022
+
+-   Maintained fly stocks for the lab
+
+-   Run mating assay over 60 genes to test the effect on female drosophila\'s mating acceptance
+
+-   Identified three proteins that have significant impact
+
+-   Poster presentation at the 62rd Annual Drosophila Research Conference
+
+## Graduate Research Assistant
+
+Department of Biology, CWRU \| 2022 - present
+
+-   Identified one gene that causes major deficit in female drosophila\'s mating behavior
+
+-   Made genetic crosses to test the effect of the gene in a specific type of neuron
+
+-   Performed brain dissection
+
+-   Applied immunohistochemistry, confocal microscopy, image analysis, and statistical analysis to determine the effect of the gene
+
+:::
